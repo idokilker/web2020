@@ -11,6 +11,6 @@ Subjects:
 * Jquery
 * CDN
 * Forms
-* Python -Django Framework
+* Python - Django Framework
 * Ajax
 * Json
